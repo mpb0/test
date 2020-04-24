@@ -33,7 +33,7 @@ for x in n:
         else:
             pass
 
-
+"""
 
 #cartesian product
 
@@ -53,7 +53,7 @@ print(d)
 
 
 
-"""
+
 
 
 import itertools
